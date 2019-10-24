@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ZoDiaC SeRvEr `,"http://twitch.tv/3BDELR7MAN_")
+client.user.setGame(`!ZoDiaC, | ,SeRvEr.!`,"http://twitch.tv/3bdelr7man_")
 client.user.setStatus("dnd")
 });
 
